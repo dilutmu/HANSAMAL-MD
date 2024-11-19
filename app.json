@@ -7,7 +7,7 @@
 
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Imalka-MD&gsRQahEt",
       "required": true,
       "value": ""
     },
@@ -18,7 +18,7 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
@@ -28,7 +28,7 @@
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_RECORDING": {
